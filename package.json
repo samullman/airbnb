@@ -34,6 +34,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@clerk/clerk-js": "^4.23.2",
 		"@kahi-ui/framework": "^0.6.4"
 	}
 }
